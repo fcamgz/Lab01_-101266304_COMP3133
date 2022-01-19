@@ -1,0 +1,1 @@
+ country: Canada year: 1952 pop: 14785584 | country: Canada year: 1957 pop: 17010154 |
